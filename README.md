@@ -1,6 +1,6 @@
 # 🎉 Welcome to OpenCUI community!
 
-A community of builders who are passionate about using OpenCUI to build great chatbots. We are here to help you get the most out of OpenCUI, and we want to make sure that you have the resources you need to succeed.
+A community of builders who are passionate about using OpenCUI to create amazing chatbots. We are here to help you get the most out of OpenCUI, and we want to make sure that you have the resources you need to succeed.
 
 ## ⚡️ Here are some tips for getting help on OpenCUI
 
